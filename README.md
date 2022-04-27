@@ -30,8 +30,8 @@
 #### 📫 Where to reach me
 - [Discord](https://discordapp.com/users/357223651327868930): ```to268#8083```
 - [Matrix](https://matrix.to/#/@to268:tedomum.net): ```@to268:tedomum.net```
-- [Email](mailto:tony.guillot@protonmail.com)
-- [Linkedin](https://www.linkedin.com/in/tony-guillot)
+- [Email](mailto:tony.guillot@protonmail.com): ```tony.guillot@protonmail.com```
+- [Linkedin](https://www.linkedin.com/in/tony-guillot): ```tony-guillot```
 
 #### 📈 Stats
 <a href="https://github.com/to268">
