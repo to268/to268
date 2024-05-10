@@ -32,9 +32,8 @@ The name will change before being brought back in the pool of active project.
 
 ##### 🔬 Experimenting new ideas
 
-- When I'm experimenting new ideas, I'm using my own git/rsync server before they show up on my GitHub profile
-    - Git SSH TUI: `ssh git.tony-guillot.com -p 23231`, powered by [soft-serve](https://github.com/charmbracelet/soft-serve)
-    - Rsync archive: `rsync://rsync.tony-guillot.com:8730`, (only public files, *slow* Artix and Gentoo mirrors is accessible)
+- When I'm experimenting new ideas, I'm using my own git server before they show up on my GitHub profile
+    - My Gitea profile on my instance: `https://git.tony.guillot.com/tony`
 
 - Currently experimenting:
     - Compilers, mainly the [LLVM-project](https://github.com/llvm/llvm-project) infrastructure
