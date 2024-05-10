@@ -33,7 +33,7 @@ The name will change before being brought back in the pool of active project.
 ##### 🔬 Experimenting new ideas
 
 - When I'm experimenting new ideas, I'm using my own git server before they show up on my GitHub profile
-    - My Gitea profile on my instance: `https://git.tony.guillot.com/tony`
+    - My Gitea profile on my instance: `https://git.tony-guillot.com/tony`
 
 - Currently experimenting:
     - Compilers, mainly the [LLVM-project](https://github.com/llvm/llvm-project) infrastructure
