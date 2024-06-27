@@ -33,7 +33,7 @@ The name will change before being brought back in the pool of active project.
 ##### 🔬 Experimenting new ideas
 
 - When I'm experimenting new ideas, I'm using my own git server before they show up on my GitHub profile
-    - My Gitea profile on my instance: `https://git.tony-guillot.com/tony`
+    - My Gitea profile on my instance: `https://git.tony-guillot.com/tony` (Currently in maitenance)
 
 - Currently experimenting:
     - Compilers, mainly the [LLVM-project](https://github.com/llvm/llvm-project) infrastructure
@@ -46,12 +46,3 @@ The name will change before being brought back in the pool of active project.
 
 - [Discord](https://discordapp.com/users/357223651327868930): `to268#8083`
 - [Email](mailto:tony.guillot@protonmail.com): `tony.guillot@protonmail.com`
-
-#### 📈 Stats
-
-<a href="https://github.com/to268">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=to268&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
-</a>
-<a href="https://github.com/to268">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=to268&layout=compact&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&langs_count=8" />
-</a>
